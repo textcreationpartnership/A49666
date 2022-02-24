@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last vvill and testament of the Earl of Pembroke.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49666</idno>
+            <idno type="STC">Wing L531A</idno>
+            <idno type="STC">ESTC R205593</idno>
+            <idno type="EEBO-CITATION">99825361</idno>
+            <idno type="PROQUEST">99825361</idno>
+            <idno type="VID">29742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1761:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last vvill and testament of the Earl of Pembroke.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on the Earl of Pembroke.</note>
+                  <note>A different work from "The first part of the last wil &amp; testament of Philip Earle of Pembrooke and Montgomery, Lord of Saint Quintin, &amp;c. now Knight of Berk-shire" and "The last will and testament of Philip Herbert, burgesse for Bark-shire, vulgarly called Earl of Pembroke and Montgomery".</note>
+                  <note>Caption title.</note>
+                  <note>Wing suggests 1679 as publication date; dated on internal evidence.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Controversial literature --  Early works to 1800.</term>
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="will">
+            <pb n="1" facs="tcp:29742:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <head>THE <hi>Laſt VVill and Teſtament</hi> OF THE Earl of Pembroke.</head>
+            <p>I PHILIP, <hi>late Earl of Pembroke and Mont<g ref="char:EOLhyphen"/>gomery, now Knight for the County of Berks,</hi> being (as I am told) very weak in Body, but of perfect Memory; for I remember this time Five years I gave the caſting Voice to diſpatch Old <hi>Canterbury;</hi> and this time Two years I Voted no Addreſs to be made to my Maſter; and this time Twelve moneth ſaw him brought to the Block: Yet becauſe Death doth threaten and ſtare upon me, (who ſtill have obeyed all thoſe that threatned me) I now make my laſt Will and Teſtament.</p>
+            <p>
+               <hi>Imprimis,</hi> For my Soul, I confeſs I have heard very much of Souls, but what they are, or whom they are for, God knows, I know not; they tell me now of another World, where I never was, nor do I know one foot of the way thi<g ref="char:EOLhyphen"/>ther. While the King ſtood I was of his Religion, made my Son wear a Caſſock, and thought to make him a Biſhop; then came the <hi>Scots</hi> and made me a Presbyterian; and ſince <hi>Cromwell</hi> entered I have been an Independent. Theſe (I be<g ref="char:EOLhyphen"/>lieve) are the Kingdom's Three Eſtates, and if any of theſe can ſave a Soul, I may claim one; therefore if my Executors do find I have a Soul, I give it him that gave it me.</p>
+            <pb n="2" facs="tcp:29742:2"/>
+            <!-- PDF PAGE 50 -->
+            <p>
+               <hi>Item,</hi> I give my Body, for I cannot keep it; you ſee the Chirurgeon is tearing off my Fleſh; therefore bury me, (I have Church Lands enough) but do not lay me in the Church Porch, for I was a Lord, and would not be buried where Colonel <hi>Pride</hi> was born.</p>
+            <p>
+               <hi>Item,</hi> My Will is, that I have no Monument, for then I muſt have Epitaphs and Verſes, but all my Life-long I have had too much of them.</p>
+            <p>
+               <hi>Item,</hi> I give my Dogs (the beſt Curs that ever Man laid Leg o're) to be divided among the Council of State. Many a fair day have I follow'd my Dogs, and follow'd the State both night and day; went whither they ſent me, ſate where they bid me, ſometimes with Lords, ſometimes with Com<g ref="char:EOLhyphen"/>mons, and now can neither go nor ſit: Yet whatever becomes of me, let my poor Dogs not want their Allowance, nor come within the Ordinance of one Meal a Week.</p>
+            <p>
+               <hi>Item,</hi> I give two of my beſt Saddle Horſes to the Earl of <hi>Denbigh,</hi> for I fear e're long his own Legs will fail him; but the talleſt and ſtrongeſt in all my Stables I give to the Academy, for a Vaulting Horſe for all Lovers of Vertue. All my other Horſes I give to the Lord <hi>Fairfax,</hi> that when <hi>Cromwell</hi> and the States take away his Commiſſion, his Lordſhip may have ſome Horſe to command.</p>
+            <p>
+               <hi>Item,</hi> I give my Hawks to the Earl of <hi>Carnarvan;</hi> his Fa<g ref="char:EOLhyphen"/>ther was Maſter of the Hawks to the King, and he has Wit ſo like his Father, that I begg'd his Wardſhip, leſt he in time ſhould do ſo by me.</p>
+            <p>
+               <hi>Item,</hi> I give all my Deer to the Earl of <hi>Salisbury,</hi> who I know will preſerve them, becauſe he denied the King a Buck out of one of his own Parks.</p>
+            <p>
+               <hi>Item,</hi> I give my Chaplains to the Earl of <hi>Stamford,</hi> in re<g ref="char:EOLhyphen"/>gard he never uſed to have any but his Son the Lord <hi>Grey,</hi> who being thus both Spiritual and Carnal, may beget more Monſters.</p>
+            <p>
+               <hi>Item,</hi> I give Nothing to the Lord <hi>Say,</hi> which Legacy I give him becauſe I know he will beſtow it on the Poor.</p>
+            <p>
+               <hi>Item,</hi> To the Counteſſes (my Siſter and my Wife) I now give leave to enjoy their Eſtates; but my own Eſtate I give to my Eldeſt Son, charging him on my Bleſſing to follow the Ad<g ref="char:EOLhyphen"/>vice of <hi>Michael Oldſworth;</hi> for though I have had 30000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per annum,</hi> yet I die not in Debt above 80000 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <pb n="3" facs="tcp:29742:2"/>
+            <!-- PDF PAGE 50 -->
+            <p>
+               <hi>Item,</hi> Becauſe I threatned Sir <hi>Henry Mildmay,</hi> but did not beat him, I give Fifty Pounds to the Footman that Cudgel'd him.</p>
+            <p>
+               <hi>Item,</hi> My Will is, that the ſaid Sir <hi>Harry</hi> ſhall not meddle with my Jewels; I knew him when he ſerved the Duke of <hi>Buckingham,</hi> and ſince how he handled the Crown Jewels; for both which Reaſons I do now name him, <hi>The Knave of Diamonds.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> To <hi>Tom May</hi> (whoſe Pate I broke heretofore at a Maſque) I give Five Shillings. I intended him more, but all that have ſeen his Hiſtory of the Parliament think Five Shil<g ref="char:EOLhyphen"/>lings too much.</p>
+            <p>
+               <hi>Item,</hi> To the Author of the Libel againſt Ladies, (called <hi>News from the New Exchange</hi>) I give 3 <hi>d.</hi> for inventing a more obſcene way of Scribling than the World yet knew; but ſince he throws what's rotten and falſe on divers Names of Unble<g ref="char:EOLhyphen"/>miſh'd Honour, I leave his Payment to the Footman that paid Sir <hi>Harry Mildmay</hi>'s Arrears, to teach him the difference 'twixt Wit and Dirt, and to know Ladies that are Noble and Chaſt from downright Roundheads.</p>
+            <p>
+               <hi>Item,</hi> I give back to the Aſſembly of Divines their Claſſi<g ref="char:EOLhyphen"/>cal, Provincial, Congregational, National, which words I have kept at my own charge above Seven Years, but plainly find they'l never come to good.</p>
+            <p>
+               <hi>Item,</hi> As I reſtore other mens Words, ſo I give Lieutenant General <hi>Cromwell</hi> one Word of mine, becauſe hitherto he never kept his own.</p>
+            <p>
+               <hi>Item,</hi> To all rich Citizens of <hi>London,</hi> to all Presbyterians as well as Cavaliers, I give advice to look to their Throats, for by order of the States the Garriſon at <hi>Whitehall</hi> have all got Ponyards, and for New Lights bought Dark Lanthorns.</p>
+            <p>
+               <hi>Item,</hi> I give all my Printed Speeches to theſe Perſons fol<g ref="char:EOLhyphen"/>lowing, <hi>viz.</hi> That Speech which I made in my own defence when the Seven Lords were accuſed of High Treaſon, I give to Serjeant <hi>Wild,</hi> that hereafter he may know what is Treaſon, and what is not. And the Speech I made <hi>ex tempore</hi> to the <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> Scholars, I give to the Earl of <hi>Mancheſter,</hi> Speaker <hi>pro tem<g ref="char:EOLhyphen"/>pore</hi> to the Houſe of Peers, before its Reformation, and Chan<g ref="char:EOLhyphen"/>cellour <hi>pro tempore</hi> of <hi>Cambridge</hi> Univerſity, ſince its Reformati<g ref="char:EOLhyphen"/>on. But my Speech at my Election, (which is my Speech without an Oath) I give to thoſe that take the Engagement, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="4" facs="tcp:29742:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 51 -->no Oath hath been able to hold them. All my other Speeches (of what colour ſoever) I give to the Academy, to help Sir <hi>Balthazar</hi>'s Art of Well Speaking.</p>
+            <p>
+               <hi>Item,</hi> I give up the Ghoſt.</p>
+            <closer>
+               <signed>
+                  <hi>Concordat cum Originali.</hi> NATHANIEL BRENT.</signed>
+            </closer>
+         </div>
+         <div type="codicil">
+            <head>CODICILL.</head>
+            <head type="sub">BEfore His Lordſhip gave his laſt Legacy, he mentioned other Particulars; but his Sence and Words grew ſo Independent, that they could not make forth into perfect Legacies: Tet we thought fit to write what he ſpake, which was <hi>In haec verba.</hi>
+            </head>
+            <p>
+               <hi>Item,</hi> I give— 's Death I am very Sick, and my Memory fails me; Sink me if I can remember what I have elſe to give. I have trou<g ref="char:EOLhyphen"/>bled my Mind with things of this World; but who the Devil thought Death had been ſo near? Ha! what's that? now 'tis at my Bed's Feet all Bloudy. Murther! Murther! call up my Men: <hi>Oldſworth,</hi> where a plague are ye all? I am well holp up to have ſuch Comforters. What, was it but a Cat? a Pox mew ye, do you take a Lord for a Mouſe? — So ho, ſo ho; there, there; O brave Jowler; plague on that Cur, couple him to Royſter.—Come to Bed, Sweet Heart; come, Duck, come—Pox rot ye all, where's my Coach? My Lord Mayor hath ſtaid at <hi>Guild Hall</hi> this two hours— That Cocks worth a King's Ranſom; he runs, he runs; a Thouſand Pound to a Bottle of Hay— Rub, rub, rub; a pox rub; a hundred thouſand rubs: 's Death my Bowl's bewitch'd, it has no more Bias than a Pudding— I'le to the Houſe, and remove the Obſtructions for Sale of the King's Goods— Dam me, there 'tis again; Ha, a Man without a Head! ſpeak, what art thou? 's Death, caſtn't ſpeak without a Head? — Ha! and there with Lawn Sleeves, comes juſt upon me, beckons me— Ha! another yet! all in Purple! my own Maſter! I beſeech Your Majeſty let me kiſs your Hand— No, Bloud! Bloud! Oh, I am undone; help! help! Why, <hi>Oldſworth!</hi> Oh! where are ye all? is this a time to ſtop your Noſes? Call up my Chap<g ref="char:EOLhyphen"/>lains: where's <hi>Caldicut?</hi> Pray, good <hi>Caldicut,</hi> pray, pray; Plague con<g ref="char:EOLhyphen"/>ſume you why do you not pray —</p>
+            <closer>
+               <signed>
+                  <hi>Concordat cum Originali.</hi> NATHANIEL BRENT.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
